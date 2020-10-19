@@ -4,6 +4,8 @@
 *.dll
 *.so
 *.dylib
+logjam
+!cmd/logjam
 
 # Test binary, built with `go test -c`
 *.test
